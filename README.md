@@ -16,7 +16,7 @@ in terminal "node server.js"
 Įdiek „Live Server“ extension
 Dešinėje paspausk Open with Live Server ant simulator.html
 
-# test for jira and github 1
-
+# test for jira and github 122
+asdfasd
 
 // Final sync test
